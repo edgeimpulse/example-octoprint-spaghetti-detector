@@ -5,6 +5,7 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 - Runs an Edge Impulse `.eim` model (Linux target)
 - Pauses/cancels when an anomaly threshold is exceeded for N consecutive frames
 
+
 ## Quick start
 
 - Sign up for Edge Impulse - https://studio.edgeimpulse.com/signup
@@ -12,6 +13,8 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 - Install and configure a pi to control your printer with Octoprint - https://octoprint.org/
 
 - Clone the Edge Impulse project here first https://studio.edgeimpulse.com/studio/785891/
+
+- ENV Vars are set in the env file to default to not interfer with your printer by setting the DRY_RUN variable to 1 change this to 0 when you are ready to use the project.
 
 ```bash
 git clone https://github.com/edgeimpulse/example-octoprint-spaghetti-detector

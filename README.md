@@ -9,7 +9,7 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 
 - Sign up for Edge Impulse - https://studio.edgeimpulse.com/signup
 
-- First install and configure a pi to control your printer with Octoprint - https://octoprint.org/
+- Install and configure a pi to control your printer with Octoprint - https://octoprint.org/
 
 - Clone the Edge Impulse project here first https://studio.edgeimpulse.com/studio/785891/
 

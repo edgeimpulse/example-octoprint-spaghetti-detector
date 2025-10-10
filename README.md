@@ -7,6 +7,8 @@ OctoPrint stop the spagetti example using the Linux Python SDK and calling a ser
 
 ## Quick start
 
+First install and configure a pi to control your printer with Octoprint - https://octoprint.org/
+
 Clone the Edge Impulse project here first https://studio.edgeimpulse.com/studio/785891/
 
 Build and deploy the model and store it in this directory as model.eim

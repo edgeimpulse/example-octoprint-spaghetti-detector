@@ -1,23 +1,17 @@
 # Stopping the Spaghetti — MakerFair 2025 (OctoPrint + Edge Impulse)
 
-One-file script that:
+OctoPrint stop the spagetti example using the Linux Python SDK and calling a service api to stop the printer. All running within the same pi as octoprint:
 - Pulls MJPEG from OctoPrint
 - Runs an Edge Impulse `.eim` model (Linux target)
 - Pauses/cancels when an anomaly threshold is exceeded for N consecutive frames
 
 ## Quick start
 
+Clone the Edge Impulse project here first https://studio.edgeimpulse.com/studio/785891/
 
-#!/usr/bin/env python3
-"""
+Build and deploy the model and store it in this directory as model.eim
 
-Clone the Edge Impulse project here first
-https://studio.edgeimpulse.com/studio/785891/
-
-OctoPrint stop the spagetti example using the Linux Python SDK and calling a service api to stop the printer. All running within the same pi as octoprint.
-- Runs .eim model
-- Pauses/cancels when anomaly exceeds threshold for N consecutive frames
-"""
+Run the following commands on the raspberry pi that has octoprint
 
 ```bash
 git clone https://github.com/edgeimpulse/example-octoprint-spaghetti-detector

@@ -47,3 +47,9 @@ python classify.py
 ```
 
 
+## Once Running correctly you should see the following output:
+
+<img width="1352" height="199" alt="image" src="https://github.com/user-attachments/assets/bac5137a-2226-4b58-8163-4aac5f2ab787" />
+
+
+

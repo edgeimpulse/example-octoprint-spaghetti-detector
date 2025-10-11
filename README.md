@@ -6,6 +6,9 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 - Pauses/cancels when an anomaly threshold is exceeded for N consecutive frames
 
 
+<img width="550" height="675" alt="image" src="https://github.com/user-attachments/assets/2742c643-645c-4d4d-8d30-eb863f777115" />
+
+
 ### Good Print
 
 <img width="3820" height="1744" alt="image" src="https://github.com/user-attachments/assets/0adbcf6e-e4db-44d7-80a6-a96f7a1d5477" />
@@ -22,8 +25,6 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 - Sign up for Edge Impulse - https://studio.edgeimpulse.com/signup
 
 - Install and configure a pi to control your printer with Octoprint - https://octoprint.org/
-
-<img width="550" height="675" alt="image" src="https://github.com/user-attachments/assets/2742c643-645c-4d4d-8d30-eb863f777115" />
 
 
 - Enable API Key control (create one called OCTO_KEY)

@@ -8,7 +8,8 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 
 ### Good Print
 
-<img width="3820" height="1744" alt="image" src="https://github.com/user-attachments/assets/3a859e78-67ab-4779-a38d-794a76bfd56f" />
+<img width="3820" height="1744" alt="image" src="https://github.com/user-attachments/assets/0adbcf6e-e4db-44d7-80a6-a96f7a1d5477" />
+
 
 
 ### Bad Print

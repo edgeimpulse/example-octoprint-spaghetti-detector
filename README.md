@@ -5,8 +5,15 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 - Runs an Edge Impulse `.eim` model (Linux target)
 - Pauses/cancels when an anomaly threshold is exceeded for N consecutive frames
 
-<img width="1910" height="839" alt="image" src="https://github.com/user-attachments/assets/78ba1a29-0f06-4f30-b232-7b34fb0a5c08" />
 
+### Good Print
+
+<img width="3820" height="1744" alt="image" src="https://github.com/user-attachments/assets/3a859e78-67ab-4779-a38d-794a76bfd56f" />
+
+
+### Bad Print
+
+<img width="3820" height="1744" alt="image" src="https://github.com/user-attachments/assets/b676f394-dad8-4a86-89d9-f5cea740d325" />
 
 
 ## Quick start

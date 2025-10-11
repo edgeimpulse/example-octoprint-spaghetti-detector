@@ -56,6 +56,16 @@ nano .env   # set OCTO_KEY, etc.
 python classify.py
 ```
 
+## Quick end-to-end test without pausing the print
+
+Use a harmless status message first:
+
+```
+ACTION=gcode
+GCODE=M117 Spaghetti?
+DRY_RUN=0
+```
+
 
 ## Once Running correctly you should see the following output:
 

@@ -14,6 +14,9 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 
 - Clone the Edge Impulse project here first https://studio.edgeimpulse.com/studio/785891/
 
+  <img width="843" height="419" alt="image" src="https://github.com/user-attachments/assets/8d800156-f449-49da-b6bd-31c8cb5362b3" />
+
+
 - ENV Vars are set in the env file to default to not interfer with your printer by setting the DRY_RUN variable to 1 change this to 0 when you are ready to use the project.
 
 ```bash

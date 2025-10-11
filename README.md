@@ -12,6 +12,16 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 
 - Install and configure a pi to control your printer with Octoprint - https://octoprint.org/
 
+Install the Edge Impulse runner (optional)
+- Install NodeJS
+  ```
+  sudo apt install nodejs
+  ```
+- Install the Edge Impulse runner (optional) - npm install -g edge-impulse-linux
+ ```
+npm install -g edge-impulse-linux
+  ```
+
 - Clone the Edge Impulse project here first https://studio.edgeimpulse.com/studio/785891/
 
 - <img width="1328" height="539" alt="image" src="https://github.com/user-attachments/assets/378775cf-4ef8-419a-91c4-3f0599678c36" />

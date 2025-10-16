@@ -26,7 +26,10 @@ OctoPrint stop the spagetti example using the Linux Python SDK (https://github.c
 
 - Install and configure a pi to control your printer with Octoprint - https://octoprint.org/
 
-
+Copy to your Pi:
+- Studio > Deploy > Linux (aarch64)
+- Download > model.eim
+- scp model.eim pi@octopi.local:~/example-octoprint-spaghetti-detector/
 - Enable API Key control (create one called OCTO_KEY)
 - <img width="912" height="882" alt="image" src="https://github.com/user-attachments/assets/791591f2-d4f6-4288-9956-babe9ed3e4a8" />
 
